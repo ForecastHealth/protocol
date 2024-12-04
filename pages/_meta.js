@@ -1,4 +1,3 @@
 export default {
-  index: "Introduction",
-  protocol: "Protocol"
+  index: "Protocol"
 }
