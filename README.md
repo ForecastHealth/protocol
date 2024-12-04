@@ -1,22 +1,21 @@
-# Nextra Docs Template 
+# Botech Protocol Documentation
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is the official documentation for the Botech Protocol, developed by Forecast Health Australia.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Overview
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+The Botech Protocol documentation provides comprehensive information about the protocol, its implementation, and usage guidelines.
 
-## Quick Start
+## Development
 
-Click the button to clone this repository and deploy it on Vercel:
+To run this documentation locally:
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+```bash
+npm install
+npm run dev
+```
 
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+Then visit `http://localhost:3000` to view the documentation.
 
 ## License
 
