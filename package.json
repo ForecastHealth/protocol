@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forecasthealth/botech-protocol.git"
+    "url": "git+https://github.com/forecasthealth/protocol.git"
   },
   "author": "Forecast Health Australia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/forecasthealth/botech-protocol/issues"
+    "url": "https://github.com/forecasthealth/protocol/issues"
   },
-  "homepage": "https://github.com/forecasthealth/botech-protocol#readme",
+  "homepage": "https://github.com/forecasthealth/protocol#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",

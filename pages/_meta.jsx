@@ -1,6 +1,4 @@
-const meta = {
+export default {
   index: "Introduction",
   protocol: "Protocol"
 }
-
-export default meta
