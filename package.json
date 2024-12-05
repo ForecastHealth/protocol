@@ -15,7 +15,7 @@
   "author": "Forecast Health Australia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/forecasthealth/protocol/issues"
+    "url": "https://github.com/forecasthealth/blob/main/protocol/issues"
   },
   "homepage": "https://github.com/forecasthealth/protocol#readme",
   "dependencies": {
